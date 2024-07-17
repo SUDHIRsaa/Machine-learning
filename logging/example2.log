@@ -1,0 +1,7 @@
+2024-07-14 12:31:37 - root - DEBUG - This will get debugged
+2024-07-14 12:31:37 - root - INFO - This will get uuiiinfoed
+2024-07-14 12:31:37 - root - WARNING - This will get warned
+2024-07-14 12:31:37 - root - ERROR - This will get errored
+2024-07-14 12:31:37 - root - CRITICAL - This will get criticaled
+2024-07-14 12:31:37 - root - DEBUG - This will get debugged
+2024-07-14 12:31:37 - root - DEBUG - This will getadddition  debugged

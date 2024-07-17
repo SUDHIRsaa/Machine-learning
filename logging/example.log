@@ -1,0 +1,4 @@
+2024-07-14 12:37:59 - logger1 - DEBUG - This is a debug message for logger1
+2024-07-14 12:37:59 - logger2 - WARNING - This is an info message for logger2
+2024-07-14 12:38:19 - logger1 - DEBUG - This is a debug message for logger1
+2024-07-14 12:38:19 - logger2 - WARNING - This is an info message for logger2

@@ -1,0 +1,13 @@
+2024-07-14 12:51:58 - main - ERROR - Division by zero
+2024-07-14 12:56:15 - main - DEBUG - Adding 1 + 2 = 3
+2024-07-14 12:56:15 - main - DEBUG - Subtracting 1 - 2 = -1
+2024-07-14 12:56:15 - main - DEBUG - Multiplying 1 * 2 = 2
+2024-07-14 12:56:15 - main - ERROR - Division by zero
+2024-07-14 12:56:27 - main - DEBUG - Adding 1 + 2 = 3
+2024-07-14 12:56:27 - main - DEBUG - Subtracting 1 - 2 = -1
+2024-07-14 12:56:27 - main - DEBUG - Multiplying 1 * 2 = 2
+2024-07-14 12:56:27 - main - ERROR - Division by zero
+2024-07-14 12:56:28 - main - DEBUG - Adding 1 + 2 = 3
+2024-07-14 12:56:28 - main - DEBUG - Subtracting 1 - 2 = -1
+2024-07-14 12:56:28 - main - DEBUG - Multiplying 1 * 2 = 2
+2024-07-14 12:56:28 - main - ERROR - Division by zero
