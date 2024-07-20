@@ -23,6 +23,7 @@ def form():
         return f"<h1> Name:<i> {name} <i/> Email: <i>{email}<i/>  <i>Password: {password}<h1/>" 
         
     return render_template('form.html')
+
 @app.route('/submit',methods=['GET','POST'])
 def submit():
     if request.method=='POST':
@@ -32,8 +33,15 @@ def submit():
         return f"<h1> Name:<i> {name} <i/> Email: <i>{email}<i/>  <i>Password: {password}<h1/>" 
         
     return render_template('form.html')
-
-
+# variable role
+@app.route('/sucess/<int:score>')
+def sucess(score):
+    res=""
+    if score>=50:
+        res='pass'
+    else:
+        res='fail'
+    return render_template('result.html',result=res)
 # the below line will run first in the entire code.
 if __name__ == '__main__':
     app.run(debug=True)
